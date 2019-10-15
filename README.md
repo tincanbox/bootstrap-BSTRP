@@ -1,3 +1,6 @@
+## domination
+
+boostrap works only within .BSTRP class
 
 ## lets go
 
